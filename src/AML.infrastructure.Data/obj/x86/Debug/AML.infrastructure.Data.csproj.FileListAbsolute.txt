@@ -1,0 +1,7 @@
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.infrastructure.Data\bin\x86\Debug\AML.infrastructure.Data.dll
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.infrastructure.Data\bin\x86\Debug\AML.infrastructure.Data.pdb
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.infrastructure.Data\bin\x86\Debug\FileHelpers.dll
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.infrastructure.Data\bin\x86\Debug\FileHelpers.xml
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.infrastructure.Data\obj\x86\Debug\AML.infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.infrastructure.Data\obj\x86\Debug\AML.infrastructure.Data.dll
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.infrastructure.Data\obj\x86\Debug\AML.infrastructure.Data.pdb

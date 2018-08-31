@@ -1,0 +1,12 @@
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\bin\x86\Debug\AML.Infrastructure.Mapper.dll
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\bin\x86\Debug\AML.Infrastructure.Mapper.pdb
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\bin\x86\Debug\AML.infrastructure.Data.dll
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\bin\x86\Debug\AutoMapper.dll
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\bin\x86\Debug\FileHelpers.dll
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\bin\x86\Debug\AML.infrastructure.Data.pdb
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\bin\x86\Debug\AutoMapper.xml
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\bin\x86\Debug\FileHelpers.xml
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\obj\x86\Debug\AML.Infrastructure.Mapper.csprojResolveAssemblyReference.cache
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\obj\x86\Debug\AML.Infrastructure.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\obj\x86\Debug\AML.Infrastructure.Mapper.dll
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Infrastructure.Mapper\obj\x86\Debug\AML.Infrastructure.Mapper.pdb

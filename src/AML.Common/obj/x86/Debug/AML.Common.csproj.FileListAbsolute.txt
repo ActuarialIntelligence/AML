@@ -1,0 +1,6 @@
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Common\bin\x86\Debug\AML.Common.dll
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Common\bin\x86\Debug\AML.Common.pdb
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Common\obj\x86\Debug\AML.Common.csprojResolveAssemblyReference.cache
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Common\obj\x86\Debug\AML.Common.csproj.CoreCompileInputs.cache
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Common\obj\x86\Debug\AML.Common.dll
+C:\Users\jyp1510\Documents\Projects\ConvertExcelToCsv-clone\AML.Common\obj\x86\Debug\AML.Common.pdb
